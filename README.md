@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep learning.
 - 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on ...
-- 📫 76946112@qq.com
+- 📫 im.wangjiahui@gmail.com
 - ✊ 书山有路勤为径，学海无涯苦作舟。
 
 <!---
